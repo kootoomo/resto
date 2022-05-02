@@ -1,0 +1,46 @@
+{
+	"menu": [
+		{
+			"title": "Easter Cake",
+			"price": 12,
+			"url": "https://static.1000.menu/img/content-v2/13/03/35503/saxarnaya-glazur-s-jelatinom-dlya-kulicha_1651039796_14_max.jpg",
+			"category": "pastry",
+			"id": 1
+		},
+		{
+			"title": "Salted Cucumbers",
+			"price": 5,
+			"url": "https://static.1000.menu/img/content-v2/57/b4/10696/malosolnje-ogurtsj-za-30-minut_1576734888_7_max.jpg",
+			"category": "vegan",
+			"id": 2
+		},
+		{
+			"title": "Cheesy hot pita",
+			"price": 7,
+			"url": "https://static.1000.menu/img/content-v2/5e/87/40149/lavash-na-skovorode-s-syrom_1572203696_11_max.jpg",
+			"category": "pita",
+			"id": 3
+		},
+		{
+			"title": "Greek salad",
+			"price": 8,
+			"url": "https://assets.epicurious.com/photos/576454fb42e4a5ed66d1df6b/master/pass/greek-salad.jpg",
+			"category": "salads",
+			"id": 4
+		},
+		{
+			"title": "Potatoes pancakes",
+			"price": 10,
+			"url": "https://static.1000.menu/img/content-v2/ba/b7/3943/kartofelnje-draniki_1579069484_7_max.jpg",
+			"category": "potatoes",
+			"id": 5
+		},
+		{
+			"title": "Сheesecakes",
+			"price": 12,
+			"url": "https://static.1000.menu/img/content/37331/pyshnye-syrniki-iz-tvoroga-na-skovorode_1564568522_9_max.jpg",
+			"category": "cottage cheese",
+			"id": 6
+		}
+	]
+}
